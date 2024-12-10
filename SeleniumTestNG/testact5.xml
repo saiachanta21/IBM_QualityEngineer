@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="testSuite">
+    <test name="FSTTests">
+        <groups>
+            <run>
+                <include name="Header tests" />
+                <include name="Button tests"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="TestNGActivity5"/>
+        </classes>
+    </test>
+</suite>

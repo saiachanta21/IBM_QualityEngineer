@@ -1,0 +1,10 @@
+<suite name="Suite">
+    <test name="Test">
+
+        <classes>
+           <class name="TestNGActivity9" />
+<!--            <class name="Answeractivitytestng9"/>-->
+            <!-- hi -->
+        </classes>
+    </test>
+</suite>
